@@ -23,6 +23,11 @@
     },
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package": "com.itesm.what2dotoday",
+      "versionCode": 1,
+      "permissions": []
     }
   }
 }
